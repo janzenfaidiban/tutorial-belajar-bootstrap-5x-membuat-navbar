@@ -10,7 +10,7 @@ Melalui tutorial ini kita belajar membuat desain atau tampilan Navbar yang dised
 
 ## Live Demo
 
-[Tampilkan Demo](...)
+[Tampilkan Demo](https://janzenfaidiban.github.io/tutorial-belajar-bootstrap-5x-membuat-navbar/)
 
 ## Video Tutorial di Youtube
 
