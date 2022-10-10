@@ -14,4 +14,4 @@ Melalui tutorial ini kita belajar membuat desain atau tampilan Navbar yang dised
 
 ## Video Tutorial di Youtube
 
-[Tampilkan Video](...)
+[Tampilkan Video](https://youtu.be/C_fZNx2o_5Y)
